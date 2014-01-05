@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+	padding-bottom: 70px;
+}
+
+footer .container {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
